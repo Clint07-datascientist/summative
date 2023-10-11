@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-# This is my file 
+# This is my file

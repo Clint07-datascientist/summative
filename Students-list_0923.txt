@@ -1,2 +1,3 @@
-#!/usr/bin/env bash
-# This is my file
+a.kayiranga1@alustudent.com,21,001
+c.pikita@alustudent.com,22,002
+g.bogore@alustudent.com,21,003
